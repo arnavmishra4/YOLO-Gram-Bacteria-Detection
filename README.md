@@ -3,9 +3,9 @@
 
 ## Files and Structure
 
-- **parameteroptimization.ipynb**: This notebook focuses on hyperparameter optimization using the Optuna library. We employ Optuna to find the optimal set of hyperparameters for the model. At the end of this notebook, we print the best parameters identified during the optimization process.
+- **ParameterOptimization.ipynb**: This notebook focuses on hyperparameter optimization using the Optuna library. We employ Optuna to find the optimal set of hyperparameters for the model. At the end of this notebook, we print the best parameters identified during the optimization process.
 
-- **best_model.ipynb**: In this notebook, we use the optimal hyperparameters obtained from `parameteroptimization.ipynb` to train the model. This ensures the model achieves the best possible performance based on the hyperparameter tuning conducted.
+- **Best_Model.ipynb**: In this notebook, we use the optimal hyperparameters obtained from `parameteroptimization.ipynb` to train the model. This ensures the model achieves the best possible performance based on the hyperparameter tuning conducted.
 
 ## Usage
 
