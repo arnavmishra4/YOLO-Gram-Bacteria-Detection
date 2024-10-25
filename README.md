@@ -9,5 +9,5 @@
 
 ## Usage
 
-1. Run `parameteroptimization.ipynb` to perform hyperparameter tuning with Optuna. The best parameters are printed at the end of the notebook.
-2. Take these optimized parameters and use them in `best_model.ipynb` to train the model.
+1. Run `ParameterOptimization.ipynb` to perform hyperparameter tuning with Optuna. The best parameters are printed at the end of the notebook.
+2. Take these optimized parameters and use them in `Best_Model.ipynb` to train the model.
